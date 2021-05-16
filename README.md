@@ -5,8 +5,9 @@ CoviBot is an intelligent telegram based chatbot. The bot helps the users find v
 
 ![Covibot1.png](https://drive.google.com/uc?export=view&id=1dhPzPTJPGYrLuo-3Kn7BxCMHOy-8qdLo)
 
-
 ## Invite Bot
+![Covibot1.png](https://drive.google.com/uc?export=view&id=1YAh3crgBdT4LG_WTcyov5RUZ9w-HVTSJ)
+
 [--------------]
 
 
