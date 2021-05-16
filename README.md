@@ -6,6 +6,7 @@ CoviBot is an intelligent telegram based chatbot. The bot helps the users with c
 
 ## Invite Bot
 **Please see the Invite bot section for instructions to add the bot to your telegram account from** [covibot.life](https://covibot.life)
+
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1YAh3crgBdT4LG_WTcyov5RUZ9w-HVTSJ" >
 </div>
