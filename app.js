@@ -75,4 +75,6 @@ app.post("/", express.json(), (req, res) => {
 	getInfo(setuUrl, res);
 });
 
-app.listen(port||3000, () => console.log("Server is live at port " + port||3000));
+app.listen(port || 3000, () =>
+	console.log("Server is live at port " + port || 3000)
+);
