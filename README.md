@@ -24,8 +24,10 @@ We have used dialogflow as our NLP agent to process the user queries from the te
 For instance, vaccine information queries from the user will be processed and matched with "vaccine" intent which is pre-defined by us and dialgoflow will call a post request to our server hosted in azure using webhook feature, our server using the pincode in the query calls the CoWin api to get the vaccine information in that region and sends it back to the dialogflow as fulfillment and finally dialogflow will send that information back to the user.
 
 ## Dependencies
-[------------]
-
+Following are the libraries we have used:
+- axios for https requests.
+- express for server creation.
+- dialogflow-fulfillment for interaction with the dialogflow agent.
 
 ## Deployment
 [------------]
