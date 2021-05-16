@@ -1,7 +1,8 @@
 # CoviBot
 
 ## About 
-CoviBot is an intelligent telegram based chatbot. The bot helps the users find vaccination slots based on their location through CoWin API ( Aarogya Setu Govt API ). 
+CoviBot is an intelligent telegram based chatbot. The bot helps the users with covid-19 information and find vaccination slots based on their location through CoWin API ( Aarogya Setu Govt API ). 
+
 
 ## Invite Bot
 **Please see the Invite bot section for instructions to add the bot to your telegram account from** [covibot.life](https://covibot.life)
