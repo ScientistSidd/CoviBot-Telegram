@@ -12,3 +12,7 @@ let dataSlot_vaccine;
 
 let dt = datetime.create();
 let formatted = dt.format("d-m-Y");
+
+let setu = (pincode) => {
+	return `https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode=${pincode}&date=${formatted}`;
+};
