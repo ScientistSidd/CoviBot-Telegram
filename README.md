@@ -25,11 +25,11 @@ For instance, vaccine information queries from the user will be processed and ma
 
 ## Dependencies
 Following are the libraries we have used:
-- axios for https requests.
-- express for server creation.
 - dialogflow-fulfillment for interaction with the dialogflow agent.
+- express for server creation.
+- axios for https requests.
 
 ## Deployment
-We have deployed our server on [azure](https://covibot09.azurewebsites.net/).
+We have deployed our server on Microsoft Azure([here](https://covibot09.azurewebsites.net/)).
 
-Local server can be deployed and redirected to a temporary domain using ngrok and further webhooked to the telegram bot for development purposes.
+Local servers can be deployed and redirected to a temporary domain using ngrok and further webhooked to the telegram bot for development purposes.
