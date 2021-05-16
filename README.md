@@ -30,4 +30,6 @@ Following are the libraries we have used:
 - dialogflow-fulfillment for interaction with the dialogflow agent.
 
 ## Deployment
-[------------]
+We have deployed our server on [azure](https://covibot09.azurewebsites.net/).
+
+Local server can be deployed and redirected to a temporary domain using ngrok and further webhooked to the telegram bot for development purposes.
