@@ -16,3 +16,15 @@ let formatted = dt.format("d-m-Y");
 let setu = (pincode) => {
 	return `https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode=${pincode}&date=${formatted}`;
 };
+
+app.get("/", (req, res) => {
+	res.send("live covibot");
+});
+
+app.post("/", express.json(), (req, res) => {
+    res.send("server receiving post request")
+});
+
+app.listen(port || 3000, () =>
+	console.log("Server is live at port " + port || 3000)
+);
