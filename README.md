@@ -9,16 +9,22 @@ CoviBot is an intelligent telegram based chatbot. The bot helps the users with c
 
 
 ## Invite Bot
-**Please see the Invite bot section for instructions to add the bot to your telegram account from** [covibot.life](https://covibot.life)
+
+CoviBot can be invited to your telegram account from our website [covibot.life](https://covibot.life)
+
+Step 1: Open the website by clicking [here](https://covibot.life)
+
+Step 2: Navigate to "Get CoviBot"
+
+Step 3: Tap on the "Invite CoviBot to Telegram" button & follow the instructions.
+
 
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1YAh3crgBdT4LG_WTcyov5RUZ9w-HVTSJ" >
 </div>
 
-
-
 ## Website
-[------------]
+ Go to [covibot.life](https://covibot.life) in order to find everything you need about the Covibot.
 
 
 ## CoWin API
